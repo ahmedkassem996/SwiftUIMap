@@ -22,6 +22,17 @@ class LocationDataService {
                 "pay-page3Full",
                 "pay-page3Full"
             ],
+            link: "www.google.com"),
+        Location(
+            name: "Mahalla",
+            cityName: "ElMahalla ElKobra",
+            coordinetes: CLLocationCoordinate2D(latitude: 42.62536, longitude: 13.625632),
+            description: "jhasdfhgsjdgfdsjkf",
+            imageNames: [
+                "pay-page3Full",
+                "pay-page3Full",
+                "pay-page3Full"
+            ],
             link: "www.google.com")
     ]
 }
