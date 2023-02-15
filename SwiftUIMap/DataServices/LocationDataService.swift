@@ -26,7 +26,7 @@ class LocationDataService {
         Location(
             name: "Mahalla",
             cityName: "ElMahalla ElKobra",
-            coordinetes: CLLocationCoordinate2D(latitude: 42.62536, longitude: 13.625632),
+            coordinetes: CLLocationCoordinate2D(latitude: 41.62537, longitude: 12.625633),
             description: "jhasdfhgsjdgfdsjkf",
             imageNames: [
                 "pay-page3Full",
